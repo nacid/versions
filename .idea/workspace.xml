@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3e19c551-6cee-46ba-82d2-1361e26ead55" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/nacid/Application.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/nacid/Version.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/nacid/storage/MemoryStorage.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/nacid/storage/Storage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +64,15 @@
   <component name="ProjectId" id="1aBgnGlh6hYLhEm3oMKSALvT6nG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -91,7 +85,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
@@ -101,7 +95,7 @@
       <recent name="$PROJECT_DIR$/src/storage" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.app">
+  <component name="RunManager" selected="Gradle.nversion [assembleDist]">
     <configuration name="nversion [assembleDist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -118,20 +112,22 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Gradle.nversion [assembleDist]" />
-      <item itemvalue="Kotlin.app" />
+      <item itemvalue="Application.app" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.nversion [assembleDist]" />
-        <item itemvalue="Kotlin.app" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -145,77 +141,26 @@
       <workItem from="1586214566803" duration="6287000" />
       <workItem from="1586220928042" duration="1240000" />
       <workItem from="1586222185655" duration="561000" />
+      <workItem from="1615088819903" duration="101000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="541" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586222625940">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="541" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222625940" />
-    <state x="747" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1586218355368">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="747" y="274" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057/-1037.-209.1037.1897@0.23.1920.1057" timestamp="1586218355368" />
-    <state x="697" y="342" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586220862333">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="697" y="342" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586220862333" />
-    <state x="734" y="211" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1586218602703">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="734" y="211" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1920.1057/-1037.-209.1037.1897@0.23.1920.1057" timestamp="1586218602703" />
-    <state x="0" y="0" width="1920" height="1080" key="CommitChangelistDialog2" timestamp="1586222249817">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="0" y="0" width="1920" height="1080" key="CommitChangelistDialog2/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222249817" />
-    <state width="939" height="375" key="GridCell.Tab.0.bottom" timestamp="1586222753572">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="939" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222753572" />
-    <state width="939" height="375" key="GridCell.Tab.0.center" timestamp="1586222753568">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="939" height="375" key="GridCell.Tab.0.center/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222753568" />
-    <state width="939" height="375" key="GridCell.Tab.0.left" timestamp="1586222753560">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="939" height="375" key="GridCell.Tab.0.left/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222753560" />
-    <state width="939" height="375" key="GridCell.Tab.0.right" timestamp="1586222753569">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="939" height="375" key="GridCell.Tab.0.right/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222753569" />
-    <state width="939" height="375" key="GridCell.Tab.1.bottom" timestamp="1586222753469">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="939" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222753469" />
-    <state width="939" height="375" key="GridCell.Tab.1.center" timestamp="1586222753466">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="939" height="375" key="GridCell.Tab.1.center/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222753466" />
-    <state width="939" height="375" key="GridCell.Tab.1.left" timestamp="1586222753465">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="939" height="375" key="GridCell.Tab.1.left/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222753465" />
-    <state width="939" height="375" key="GridCell.Tab.1.right" timestamp="1586222753467">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="939" height="375" key="GridCell.Tab.1.right/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586222753467" />
-    <state x="448" y="112" key="SettingsEditor" timestamp="1586221690980">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="448" y="112" key="SettingsEditor/0.0.1920.1080/-1080.-232.1080.1920@0.0.1920.1080" timestamp="1586221690980" />
-    <state x="448" y="133" key="SettingsEditor/0.23.1920.1057/-1037.-209.1037.1897@0.23.1920.1057" timestamp="1586216831601" />
-    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1586216142980">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/-1037.-209.1037.1897@0.23.1920.1057" timestamp="1586216142980" />
   </component>
 </project>
